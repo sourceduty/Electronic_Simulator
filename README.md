@@ -11,6 +11,10 @@ One of the key functions of this Electronic Simulator is to facilitate text-base
 In addition to simulation guidance, this custom GPT offers specialized assistance in developing and refining Arduino code. It emphasizes best practices for code structure, efficiency, and debugging, ensuring that users' programs are functional and error-free. The Electronic Simulator also stresses the importance of thorough documentation and disciplined version control, helping users manage their projects effectively and collaborate seamlessly. By focusing on these critical aspects, the Electronic Simulator ensures that users can develop robust and successful electronic projects.
 
 #
+
+![Battery Pencil](https://github.com/user-attachments/assets/1b005843-50e4-4bff-a6bb-7aa53b78d7a0)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
