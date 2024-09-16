@@ -12,7 +12,7 @@ In addition to simulation guidance, this custom GPT offers specialized assistanc
 
 #
 
-![Battery Pencil](https://github.com/user-attachments/assets/1b005843-50e4-4bff-a6bb-7aa53b78d7a0)
+![Christmas Gift Meme](https://github.com/user-attachments/assets/a06c7319-6353-4e85-9976-2f7690fc0526)
 
 #
 ### Related Links
