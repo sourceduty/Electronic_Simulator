@@ -1,4 +1,4 @@
-![Electronic Simulator](https://github.com/user-attachments/assets/dea17280-f92b-48ca-9a7d-22f6218735ff)
+![Teleport](https://github.com/user-attachments/assets/ac55058f-2a26-4894-80c0-7a223f1ccc81)
 
 > Manage, plan, and simulate Arduino and Raspberry Pi projects.
 
@@ -12,7 +12,7 @@ In addition to simulation guidance, this custom GPT offers specialized assistanc
 
 #
 
-![Christmas Gift Meme](https://github.com/user-attachments/assets/a06c7319-6353-4e85-9976-2f7690fc0526)
+![Electronic Simulator](https://github.com/user-attachments/assets/dea17280-f92b-48ca-9a7d-22f6218735ff)
 
 #
 ### Related Links
