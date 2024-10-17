@@ -32,6 +32,8 @@ In addition to simulation guidance, this custom GPT offers specialized assistanc
 [PI-PC Case](https://github.com/sourceduty/Pi-PC_Case)
 <br>
 [Helipad Pi](https://github.com/sourceduty/Helipad_Pi)
+<br>
+[Parts Project](https://github.com/sourceduty/Parts_Project)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
