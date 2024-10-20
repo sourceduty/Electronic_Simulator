@@ -29,7 +29,7 @@ In addition to simulation guidance, this custom GPT offers specialized assistanc
 <br>
 [Sensor Calibration](https://github.com/sourceduty/Sensor_Calibration)
 <br>
-[PI-PC Case](https://github.com/sourceduty/Pi-PC_Case)
+[Pi-PC Case](https://github.com/sourceduty/Pi-PC_Case)
 <br>
 [Helipad Pi](https://github.com/sourceduty/Helipad_Pi)
 <br>
