@@ -34,6 +34,8 @@ In addition to simulation guidance, this custom GPT offers specialized assistanc
 [Helipad Pi](https://github.com/sourceduty/Helipad_Pi)
 <br>
 [Parts Project](https://github.com/sourceduty/Parts_Project)
+<br>
+[Animal IoT](https://github.com/sourceduty/Animal_IoT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
