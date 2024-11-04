@@ -12,8 +12,7 @@ In addition to simulation guidance, this custom GPT offers specialized assistanc
 
 #
 ![Electronic Simulator](https://github.com/user-attachments/assets/dea17280-f92b-48ca-9a7d-22f6218735ff)
-#
-![Cordwood](https://github.com/user-attachments/assets/26e81c8c-7326-47d4-b5e4-e8916238e867)
+
 #
 ### Related Links
 
